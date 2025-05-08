@@ -1,5 +1,5 @@
 {
-    "name": "Drm Uploader By 🅱🅴🅰🆂🆃 👑",
+    "name": "Drm Uploader By GUDDU 👑",
     "description": "DRM Uploader",
     "logo": "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
     "keywords": [
@@ -12,12 +12,12 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "enter_your_api_id",
+            "description": "26367102",
             "value": "26468828",
             "required": true
         },
         "API_HASH": {
-            "description": "enter_your_api_harsh",
+            "description": "8016bf66f0ebe4d33583eb896e1a1068",
             "value": "4693513c08d1ac6af15f95b116c29478",
             "required": true
         },
